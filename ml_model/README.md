@@ -1,1 +1,1 @@
-# AI-Salary-Predictor 1
+# AI-Salary-Predictor using linear regression
